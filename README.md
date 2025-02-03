@@ -1,5 +1,7 @@
 # alfred workflow - naver 사전
 
+ref: https://seungdols.tistory.com/1018
+
 원래 이 워크플로우는 초기에 내가 만든게 아니라, 다른 분이 만든 코드를 계속 변경하였습니다.
 
 기존 코드 베이스가 python2 였는데, python3 코드로 바꾸면서, 계속 뭔가 동작을 하지 않길래, 보니까 
